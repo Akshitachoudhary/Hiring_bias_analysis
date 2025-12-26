@@ -24,5 +24,6 @@ The goal is to understand whether resume screening scores are influenced more by
 - Results suggest potential keyword quantity bias and education based bias in resume screening systems
 
 ## Dashboard Preview
-![Resume Bias Analysis Dashboard](Hiring_Bias_analysis/dashboard.png)
+![Resume Bias Analysis Dashboard](Hiring_bias_analysis/dashboard.png)
+
 
