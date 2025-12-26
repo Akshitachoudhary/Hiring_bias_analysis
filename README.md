@@ -24,9 +24,5 @@ The goal is to understand whether resume screening scores are influenced more by
 - Results suggest potential keyword quantity bias and education based bias in resume screening systems
 
 ## Dashboard Preview
-Add a screenshot of the Power BI dashboard here.
-
-Example:
-```markdown
 ![Resume Bias Analysis Dashboard](dashboard.png)
-<img width="1107" height="698" alt="dashboard" src="https://github.com/user-attachments/assets/602e7805-f00d-417d-8569-67734794a953" />
+
